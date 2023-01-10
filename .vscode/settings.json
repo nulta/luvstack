@@ -1,0 +1,10 @@
+{
+    "Lua.workspace.ignoreDir": [
+        ".vscode",
+        // "deps"
+    ],
+    "Lua.runtime.version": "LuaJIT",
+    "Lua.diagnostics.globals": [
+        "p"
+    ]
+}
